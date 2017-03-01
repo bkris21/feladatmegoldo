@@ -1,0 +1,3 @@
+# feladatmegoldo
+
+Gyerunk
